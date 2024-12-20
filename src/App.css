@@ -1,0 +1,4 @@
+select option:disabled {
+    color: red; /* Set the desired color */
+    font-weight: bold; /* Optional: make it bold */
+}
